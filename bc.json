@@ -233,7 +233,7 @@
         {
             "slug": "19-Looping-With-FizzBuzz",
             "title": "19-Looping-With-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/19-Looping-With-FizzBuzz",
             "translations": [
                 "es",
